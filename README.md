@@ -223,7 +223,7 @@ class MouhamedAbdallahDia:
 |---------|---------|
 | ✉️ Email | [mouhamedabdallah.dia@uadb.edu.sn](mailto:mouhamedabdallah.dia@uadb.edu.sn) |
 | 📱 Téléphone | [+221 78 161 45 00](tel:+221781614500) |
-| 🌐 Portfolio | [saotof-prog.github.io/Cv-Complet](https://saotof-prog.github.io/Cv-Complet/) |
+| 🌐 Portfolio | [saotof-prog.github.io/portfolio]( https://saotof-prog.github.io/portoflio/) |
 | 📍 Localisation | Sicap, Dakar, Sénégal |
 
 </div>
