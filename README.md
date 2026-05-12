@@ -1,89 +1,84 @@
 <div align="center">
 
-# 👋 Salut, moi c’est Saotof
+# 👋 Hey, moi c’est moi Mouhamed Abdallah Dia
 
-### 💻 Développeur Web Full-Stack passionné par la création d’expériences modernes et performantes
+### 💻 Développeur Web Full‑Stack | Créateur d’expériences web modernes
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Développeur+Web+Full-Stack;Frontend+%2B+Backend+Developer;Passionné+de+Technologies;Toujours+en+train+d’apprendre+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Frontend+%2B+Backend;UI+%2F+UX+Lover;Clean+Code+Advocate;Always+Building+🚀" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://saotof-prog.github.io/Cv-Complet/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/saotof-prog)
+[![Open to Work](https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge)]()
 
 </div>
 
 ---
 
-# 🧑‍💻 À propos de moi
+# ⚡ À propos
 
-🎓 Étudiant en développement web  
-🔥 Passionné par le développement d’applications modernes  
+💻 Développeur web passionné par la création d’applications modernes et performantes  
 🌍 Basé à Dakar, Sénégal  
-⚡ J’aime transformer des idées en projets concrets et élégants  
-🚀 Objectif : devenir un développeur full-stack de haut niveau
+🎯 Objectif : devenir un développeur full‑stack solide et recherché  
+🔥 J’aime transformer des idées en produits réels et utilisables  
+🧠 Apprentissage constant, amélioration continue
 
 ---
 
-# 🛠️ Stack Technique
+# 🧠 Stack Technique
 
-## 🌐 Frontend
-
+## 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
 ## ⚙️ Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
 </p>
 
-## 🗄️ Base de données
-
+## 🗄️ Bases de données
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-## 🔧 Outils & Technologies
-
+## 🛠️ Outils
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-# 🚀 Ce que je développe
+# 🚀 Ce que je construis
 
-✨ Sites web modernes et responsives  
-⚡ Applications web dynamiques  
-📱 Interfaces utilisateur propres et fluides  
-🧠 Projets orientés performance et expérience utilisateur  
-🔐 Systèmes backend robustes et sécurisés
-
----
-
-# 📌 Projets Mis En Avant
-
-## 🌟 Portfolio / CV
-
-🔗 https://saotof-prog.github.io/Cv-Complet/
-
-> Mon portfolio personnel présentant mes compétences, projets et parcours en développement web.
+⚡ Applications web modernes et rapides  
+🎨 Interfaces UI propres et intuitives  
+📱 Sites responsive (mobile-first)  
+🔐 APIs backend robustes et sécurisées  
+🧩 Projets complets de A à Z
 
 ---
 
-# 📈 Statistiques GitHub
+# 🔥 Projet phare
+
+## 🌐 Portfolio / CV
+👉 https://saotof-prog.github.io/Cv-Complet/
+
+💡 Un site personnel conçu pour présenter mon parcours, mes compétences et mes projets.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saotof-prog&show_icons=true&theme=tokyonight" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saotof-prog&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 Activity
 
 <div align="center">
 
@@ -93,17 +88,18 @@
 
 ---
 
-# 🧠 Actuellement
+# 🧭 Actuellement
 
-📚 J’améliore mes compétences en Full-Stack Development  
-⚡ Je travaille sur des projets personnels  
-🎯 Je développe mon expertise GitHub & Open Source
+📚 Amélioration continue en Full‑Stack Development  
+⚙️ Construction de projets concrets et déployés  
+🚀 Optimisation de mon GitHub et portfolio  
+💼 Préparation stage / opportunités pro
 
 ---
 
-# 🤝 Me Contacter
+# 🤝 Contact
 
-📧 Email : mouhamedabdallah.dia@uadb.edu.sn 
+📧 Email : mouhamedabdallah.dia@uadb.edu.sn  
 🌐 Portfolio : https://saotof-prog.github.io/Cv-Complet/  
 🐙 GitHub : https://github.com/saotof-prog
 
@@ -111,8 +107,8 @@
 
 <div align="center">
 
-### ⭐ Merci de visiter mon profil GitHub ⭐
+# ⭐ Code. Build. Improve. Repeat.
 
-🚀 *Code. Create. Improve.*
+🔥 Merci d’avoir visité mon profil 🔥
 
 </div>
