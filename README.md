@@ -205,6 +205,22 @@ class MouhamedAbdallahDia:
     <img src="https://img.shields.io/badge/Microsoft_Learn-AI_Engineering-10B981?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </a>
 
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/U7HUU6T3?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Cloud_Computing-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/ZJVZWUM2?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-DevOps-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/8VN89HVW?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Azure_Services-0284C7?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/H2WH9D28?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Security_Fundamentals-DC2626?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
 </div>
 ---
 
