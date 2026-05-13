@@ -189,6 +189,24 @@ class MouhamedAbdallahDia:
 - 📈 Développement de la présence digitale et croissance de la communauté
 
 ---
+## 🧠 Microsoft Learn Achievements
+
+<div align="center">
+
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/4CDBDW4K?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-GitHub_Actions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/3ZW88RFH?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Machine_Learning-5E5ADB?style=for-the-badge&logo=microsoftacademic&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/achievements/share/fr-fr/MouhamedAbdallahDia-1902/3Z83UEQH?sharingId=FFF96258FD86374F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-AI_Engineering-10B981?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+
+</div>
+---
 
 ## 📊 GitHub Stats
 
