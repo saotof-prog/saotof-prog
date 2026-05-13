@@ -223,20 +223,43 @@ class MouhamedAbdallahDia:
 
 </div>
 ---
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saotof-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saotof-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saotof-prog&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saotof-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saotof-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saotof-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=saotof-prog&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=F59E0B&currStreakLabel=A78BFA"/>
+
+</div>
+---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/saotof-prog/saotof-prog/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+---
+## 🎧 Currently Vibing To
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+---
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 
 ## 📈 Activité Récente
