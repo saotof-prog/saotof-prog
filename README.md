@@ -133,7 +133,8 @@ print(dia.objectif())
 **Université Alioune Diop (UAD) · Bambey, Sénégal**
 
 - Licence 1 — 2024/2025
-- Licence 2 — 2025/2026 *(en cours)*
+- Licence 2 — 2025/2026 
+- License 3 *(en cours)*
 
 ### 🏛️ HarvardX — CS50 Series *(2023 – 2026)*
 **5 cours complétés avec distinctions** : Web · SQL · Cybersecurity · AI
