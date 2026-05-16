@@ -220,7 +220,7 @@ print(dia.objectif())
 | ✉️ **Email** | [mouhamedabdallah.dia@uadb.edu.sn](mailto:mouhamedabdallah.dia@uadb.edu.sn) |
 | 📱 **Téléphone** | [+221 78 161 45 00](tel:+221781614500) |
 | 🔗 **LinkedIn** | [Mouhamed Abdallah Dia](https://www.linkedin.com/in/mouhamed-abdallah-dia-302b743b2) |
-| 🌐 **Portfolio** | [saotof-prog.github.io/Cv-Complet](https://saotof-prog.github.io/Cv-Complet/) |
+| 🌐 **Portfolio** | [saotof-prog.github.io/Cv-Complet](https://saotof-prog.github.io/portfolio/) |
 | 📍 **Localisation** | Sicap, Dakar — Sénégal |
 
 </div>
