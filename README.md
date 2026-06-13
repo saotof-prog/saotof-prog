@@ -136,7 +136,7 @@ print(dia.objectif())
 - Licence 2 — 2025/2026 
 - License 3 *(en cours)*
 
-### 🏛️ HarvardX — CS50 Series *(2023 – 2026)*
+### 🏛️ HarvardX — CS50 Series*
 **Formation complétée avec distinction** : Web · SQL · Cybersecurity · AI
 
 ---
