@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=I+don't+just+study+AI+—+I+ship+it+🚀;Built+CyberTalent+AI+from+schema+to+production+⚡;23+International+Certifications+🏆;HarvardX+CS50AI+—+Summa+Cum+Laude+🎓;Stanford+%2F+DeepLearning.AI+ML+Specialization+🤖;From+Dakar+to+the+world.+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=I+don't+just+study+AI+—+I+ship+it+🚀;Built+CyberTalent+AI+from+schema+to+production+⚡;25+International+Certifications+🏆;HarvardX+CS50AI+—+Summa+Cum+Laude+🎓;Stanford+%2F+DeepLearning.AI+ML+Specialization+🤖;From+Dakar+to+the+world.+🌍)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,7 +33,7 @@ class MouhamedAbdallahDia:
         self.university  = "Université Alioune Diop de Bambey — Dakar, Sénégal"
         self.degree      = "Licence Informatique (Expected 2026)"
         self.languages   = ["Français 🇫🇷", "English 🇬🇧", "Wolof 🇸🇳"]
-        self.certs       = 23      # verified international certifications
+        self.certs       = 25      # verified international certifications
         self.shipped     = True    # CyberTalent AI — live in production
         self.status      = "BUILDING 🟢"
 
@@ -41,7 +41,7 @@ class MouhamedAbdallahDia:
         return {
             "ML"        : ["scikit-learn", "TensorFlow", "Python", "Pandas", "NumPy"],
             "Full-Stack": ["Next.js 16", "TypeScript", "Prisma ORM", "PostgreSQL", "Tailwind"],
-            "AI APIs"   : ["Google Gemini", "Prompt Engineering", "LLM Integration"],
+            "AI APIs"   : ["Google Gemini", "Prompt Engineering", "LLM Integration", "Agentic AI"],
             "Infra"     : ["Vercel", "Neon DB", "Azure", "Git", "Clerk Auth"],
             "Security"  : ["Kali Linux", "Wireshark", "Penetration Testing", "TCP/IP", "OSI"],
         }
@@ -84,43 +84,21 @@ git commit -m "feat: schema design → AI integration → auth → deployment �
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<div align="center">
 
-### 💻 Full-Stack Development
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,nextjs,ts,js,tailwind,html,css,postgres,prisma,vercel,azure,git,github,kali,linux&perline=9" />
 
-### 🗄️ Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-### 🔐 Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> Not pictured above (no skill-icon available): **Google Gemini API**, **Pandas / NumPy**, **Neon DB**, **Clerk Auth**, **Wireshark**, **TryHackMe** — all part of the active CyberTalent AI stack.
 
 ---
 
-## 🏆 Certifications — 23 Verified
+## 🏆 Certifications — 25 Verified
 
 > Every cert below has a verifiable credential. No padding, no fakes.
 
-### 🤖 AI / Machine Learning (6)
+### 🤖 AI / Machine Learning (8)
 
 | Certification | Institution | Date | Distinction |
 |---|---|---|---|
@@ -130,6 +108,8 @@ git commit -m "feat: schema design → AI integration → auth → deployment �
 | Foundations of AI and Machine Learning | Microsoft | Jun 2026 | — |
 | AI & ML Algorithms and Techniques | Microsoft | Jun 2026 | — |
 | Building Intelligent Troubleshooting Agents | Microsoft | Jun 2026 | — |
+| AI Agents and Agentic AI Architecture in Python | Vanderbilt University | Jun 2026 | — |
+| AI Agents and Agentic AI with Python & Generative AI | Vanderbilt University | Jun 2026 | — |
 
 ### 🔐 Cybersecurity (3)
 
