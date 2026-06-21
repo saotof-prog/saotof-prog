@@ -88,9 +88,17 @@ git commit -m "feat: schema design → AI integration → auth → deployment �
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,nextjs,ts,js,tailwind,html,css,postgres,prisma,vercel,azure,git,github,kali,linux&perline=9" />
 
-</div>
+<br/><br/>
 
-> Not pictured above (no skill-icon available): **Google Gemini API**, **Pandas / NumPy**, **Neon DB**, **Clerk Auth**, **Wireshark**, **TryHackMe** — all part of the active CyberTalent AI stack.
+![Gemini AI](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+</div>
 
 ---
 
