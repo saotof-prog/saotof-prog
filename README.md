@@ -78,7 +78,7 @@ print(dia.philosophy())
 git commit -m "feat: schema design → AI integration → auth → deployment → production debug"
 ```
 
-[![CyberTalent AI](https://img.shields.io/badge/CyberTalent_AI-Live_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://saotof-prog.github.io/portoflio/)
+[![CyberTalent AI](https://img.shields.io/badge/CyberTalent_AI-Live_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://cybertech-ai.vercel.app)
 
 ---
 
