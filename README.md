@@ -164,7 +164,7 @@ git commit -m "feat: schema design → AI integration → auth → deployment �
 
 ## 💼 Experience
 
-### 🎙️ Head of Communications — UAD Tech Club *(2023 – Present)*
+### 🎙️ Head of Communications — UAD Tech Club *(2024)*
 **Université Alioune Diop · Dakar, Sénégal**
 
 - Managed internal and external communications for the university's main tech club
