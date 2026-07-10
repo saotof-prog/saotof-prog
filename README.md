@@ -226,7 +226,7 @@ git commit -m "feat: schema design → AI integration → auth → deployment �
 | ✉️ **Email perso** | [saotofs@gmail.com](mailto:saotofs@gmail.com) |
 | 📱 **Téléphone** | [+221 78 161 45 00](tel:+221781614500) |
 | 🔗 **LinkedIn** | [Mouhamed Abdallah Dia](https://www.linkedin.com/in/mouhamed-abdallah-dia-302b743b2) |
-| 🌐 **Portfolio** | [My Portfolio](https://saotof-prog.github.io/portoflio/) |
+| 🌐 **Portfolio** | [My Portfolio](https://saotof-prog.github.io/portfolio/) |
 | 📍 **Location** | Sicap, Dakar — Sénégal |
 
 </div>
